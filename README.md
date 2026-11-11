@@ -1,4 +1,4 @@
-# Dental Clinic Management System — Case Study
+# Dental Clinic Management System: Case Study
 
 > Management system for dental clinics: scheduling, patients, professionals and finance, installed per clinic on its own server.
 > **Status: in development** (phase 1, the MVP that runs the clinic's schedule). **Source code is private.** This repository documents the project; a walkthrough is available on request.
